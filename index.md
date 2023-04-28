@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Transform your space into a work of art
+# Trasforma il tuo spazio in un'opera d'arte
 
-We specialize in bringing unique and captivating generative art to your windows for shading and to your empty walls for added life. Our goal is to bring more creativity and vibrancy to public and private spaces alike. 
+Siamo specializzati nel portare arte generativa unica e affascinante alle tue finestre per creare ombra e alle tue pareti vuote per dare più vita. Il nostro obiettivo è portare più creatività e vivacità sia negli spazi pubblici che privati.
