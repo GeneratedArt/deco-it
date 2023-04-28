@@ -18,19 +18,24 @@ Per garantire risultati di massima qualità, enfatizziamo l'importanza della cor
 
 Scoprite il potere trasformativo del nostro servizio di pavimentazione d'arte generativa e lasciate che la nostra competenza nello stencil per pavimenti in resina epossidica porti la vostra visione alla vita.
 
-## Scope of Services:
+## Ambito dei Servizi
 
-Our scope of services includes:
+Il nostro ambito di servizi include:
 
-- Design Consultation: We collaborate with you to understand your vision, preferences, and requirements, ensuring the final design aligns with your expectations and enhances your space.
-- Surface Preparation: Our team meticulously prepares the flooring surface, guaranteeing it is clean, dry, and free of debris for optimal stencil adhesion and a flawless outcome.
-- Custom Stencil Creation: We design and produce high-quality vinyl or plastic stencils tailored to your chosen design, logo, or graphic, providing precise control over design placement, colors, and textures.
-- Epoxy Paint Application: Our skilled professionals apply epoxy paint evenly over the stencil, adhering to best practices and recommended curing times to ensure stunning and durable results.
-- Stencil Removal and Cleanup: Once the epoxy has cured, we carefully remove the stencil, revealing the beautiful design underneath, and ensure the space is left clean and ready for use.
-- Post-Installation Inspection: We perform a thorough inspection of the completed flooring to verify its quality, durability, and adherence to your design specifications.
-- Ongoing Support and Maintenance: To keep your generative art flooring in top condition, we offer continued support and maintenance services, addressing any concerns and providing guidance on proper care.
+- Consulenza di Progettazione: Collaboriamo con te per comprendere la tua visione, le tue preferenze e le tue esigenze, garantendo che il progetto finale sia in linea con le tue aspettative e valorizzi il tuo spazio.
 
-# Articles
+- Preparazione della Superficie: Il nostro team prepara meticolosamente la superficie del pavimento, assicurando che sia pulita, asciutta e priva di detriti per una perfetta adesione degli stencil e un risultato impeccabile.
+
+- Creazione di Stencil Personalizzati: Progettiamo e produciamo stencil di alta qualità in vinile o plastica su misura per il tuo design, logo o grafica scelti, fornendo un controllo preciso sulla posizione del design, i colori e le texture.
+
+- Applicazione della Vernice Epossidica: I nostri professionisti esperti applicano la vernice epossidica in modo uniforme sullo stencil, seguendo le migliori pratiche e i tempi di indurimento consigliati per garantire risultati sorprendenti e duraturi.
+- Rimozione dello Stencil e Pulizia: Una volta indurita l'epossidica, rimuoviamo con cura lo stencil, rivelando il bellissimo disegno sottostante e assicurandoci che lo spazio sia pulito e pronto all'uso.
+
+- Ispezione Post-Installazione: Effettuiamo un'ispezione accurata del pavimento completato per verificarne la qualità, la durata e l'aderenza alle tue specifiche di progettazione.
+- Supporto Continuo e Manutenzione: Per mantenere il tuo pavimento d'arte generativa nelle migliori condizioni, offriamo servizi di supporto e manutenzione continuativi, affrontando eventuali problemi e fornendo indicazioni sulla cura appropriata.
+Articoli
+
+# Articoli
 
 [Transform Your Space with Generative Art Flooring Using Epoxy Paint](https://medium.com/generatedart/transform-your-space-with-generative-art-flooring-using-epoxy-paint-d596c395094c)
 
