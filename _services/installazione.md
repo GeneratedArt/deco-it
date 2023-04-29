@@ -4,7 +4,7 @@ date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Generative art decor offers immersive experiences for diverse audiences. Our team collaborates with clients for seamless and harmonious installations.
+L'arte generativa offre esperienze coinvolgenti per un pubblico diversificato. Il nostro team collabora con i clienti per installazioni armoniose e senza soluzione di continuità.
 
 ![Conference](/images/illustrations/conference.png)
 
