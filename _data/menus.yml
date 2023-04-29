@@ -1,18 +1,18 @@
 main:
-  - name: "Home"
+  - name: "Accoglienza"
     url: "/"
     weight: 1
-  - name: "About"
-    url: "/about/"
+  - name: "A Proposito"
+    url: "/proposito/"
     weight: 2
-  - name: "Services"
-    url: "/services/"
+  - name: "Servizi"
+    url: "/servizi/"
     weight: 3
-  - name: "Catalog"
-    url: "/catalog/"
+  - name: "Catalogo"
+    url: "/catalogo/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Contatto"
+    url: "/contatto/"
     weight: 5
   - name: "/en"
     url: "https://deco.generatedart.com"
